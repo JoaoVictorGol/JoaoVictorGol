@@ -16,46 +16,46 @@ I am a passionate technology student with a strong foundation in systems analysi
 
 ### Programming Languages
 <a href="https://www.python.org" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="65" height="65">
 </a>
 <a href="https://www.java.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="65" height="65">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="65" height="65">
 </a>
 <a href="https://isocpp.org" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="65" height="65">
 </a>
 <a href="https://www.cprogramming.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="65" height="65">
 </a>
 <a href="https://www.php.net" target="_blank">
-  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="80" height="80">
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="65" height="65">
 </a>
 
 ### Databases
 <a href="https://www.mysql.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="65" height="65">
 </a>
 
 ### Cloud Computing
 <a href="https://aws.amazon.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="65" height="65">
 </a>
 
 ### Tools & Frameworks
 <a href="https://www.arduino.cc" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="65" height="65">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="65" height="65">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="65" height="65">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="80" height="80">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="65" height="65">
 </a>
 
 ---
