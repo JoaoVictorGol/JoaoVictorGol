@@ -34,7 +34,7 @@ I am a passionate technology student with a strong foundation in systems analysi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65">
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="65" height="65">
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="65" height="65">
 </a>
 
 ### Databases
