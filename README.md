@@ -16,48 +16,47 @@ I am a passionate technology student with a strong foundation in systems analysi
 
 ### Programming Languages
 <a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40">
 </a>
 <a href="https://www.java.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
 </a>
 <a href="https://isocpp.org" target="_blank">
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40">
 </a>
 <a href="https://www.cprogramming.com" target="_blank">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat" alt="C">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40">
 </a>
 <a href="https://www.php.net" target="_blank">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" alt="PHP">
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" width="40" height="40">
 </a>
 
 ### Databases
 <a href="https://www.mysql.com" target="_blank">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40">
 </a>
 
 ### Cloud Computing
 <a href="https://aws.amazon.com" target="_blank">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" alt="AWS">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40">
 </a>
 
 ### Tools & Frameworks
 <a href="https://www.arduino.cc" target="_blank">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat" alt="Arduino">
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" width="40" height="40">
 </a>
 <a href="https://getbootstrap.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40">
 </a>
-
 
 ---
 
