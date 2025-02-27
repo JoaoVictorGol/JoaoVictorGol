@@ -33,6 +33,9 @@ I am a passionate technology student with a strong foundation in systems analysi
 <a href="https://www.php.net" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65">
 </a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="65" height="65">
+</a>
 
 ### Databases
 <a href="https://www.mysql.com" target="_blank">
@@ -41,7 +44,7 @@ I am a passionate technology student with a strong foundation in systems analysi
 
 ### Cloud Computing
 <a href="https://aws.amazon.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="65" height="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="65" height="65">
 </a>
 
 ### Tools & Frameworks
