@@ -5,7 +5,7 @@
 I am a passionate technology student with a strong foundation in systems analysis and software development. My goal is to contribute to the evolution of technology by developing innovative solutions and continuously learning about data science, artificial intelligence, and emerging technologies. I am fluent in English and have hands-on experience in software development, IoT, and databases.
 
 <ul>
-  <li>💻 Currently pursuing a <strong>Bachelor's Degree in Multisoftware Systems Development</strong> at Fatec Marília.</li>
+  <li>💻 Currently pursuing a <strong>Bachelor's Degree in Multiplatform Systems Development</strong> at Fatec Marília.</li>
   <li>🚀 Skilled in <strong>Python, Java, JavaScript, C++, C, PHP, and SQL</strong>.</li>
   <li>📖 Certified in <strong>AWS Cloud Practitioner</strong>.</li>
 </ul>
